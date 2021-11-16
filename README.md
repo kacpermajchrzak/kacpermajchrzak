@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```python
 print ('Witaj użytkowniku')
 ```
 Na tym profilu początkowo znajdziesz niewiele
