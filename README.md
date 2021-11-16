@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```
-print (Witaj użytkowniku)
+print ('Witaj użytkowniku')
 ```
 Na tym profilu początkowo znajdziesz niewiele
 w zasadzie to praktycznie nic,
