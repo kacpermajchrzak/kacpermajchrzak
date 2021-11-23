@@ -7,6 +7,9 @@ Na tym profilu początkowo znajdziesz niewiele
 w zasadzie to praktycznie nic,
 jednak mam nadzieje że z biegiem lat się to zmieni
 Znośnego tygodnia :D
+
+[Moja strona internetowa](https://kacpermajchrzak.github.io/)
+
 <!--
 **kacpermajchrzak/kacpermajchrzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
