@@ -10,6 +10,8 @@ Znośnego tygodnia :D
 
 [Moja strona internetowa](https://kacpermajchrzak.github.io/)
 
+[link do repozytorium z fork](https://github.com/kacpermajchrzak/Autopilot-TensorFlow)
+
 <!--
 **kacpermajchrzak/kacpermajchrzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
