@@ -1,6 +1,6 @@
-# Witaj na moim profilu GitHub
+# Kim jestem?
 
-Cześć! Jestem studentem informatyki i systemów inteligentnych na drugim roku. Witam Cię serdecznie na moim profilu GitHub, gdzie dzielę się swoimi projektami, kodami źródłowymi i doświadczeniem w dziedzinie informatyki.
+Cześć! Jestem studentem informatyki i systemów inteligentnych na trzecim roku. Witam Cię serdecznie na moim profilu GitHub, gdzie dzielę się swoimi projektami, kodami źródłowymi i doświadczeniem w dziedzinie informatyki.
 
 ## O mnie
 
@@ -14,9 +14,9 @@ Moje zainteresowania skupiają się na uczeniu maszynowym, sieciach neuronowych 
 
 ## Umiejętności
 
-- Języki programowania: Python, Java, C++, C#.
+- Języki programowania: Python, Java, C++, C#, JavaScript.
 
-- Technologie: TensorFlow, Keras, scikit-learn, numpy, pandas.
+- Technologie: TensorFlow, Keras, scikit-learn, numpy, pandas, OpenCV, Angular, Docker.
 
 - Bazy danych: PostrgreSQL.
 
