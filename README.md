@@ -20,7 +20,7 @@ I'm interested in machine learning, especially convolutional neural networks. I'
 
 ## Skills
 
-- Programming languages: Python, JavaScript, Java, C++, C#.
+- Programming languages: Python, TypeScript, Java, C++, C#.
 
 - Technologies: TensorFlow, Keras, scikit-learn, NumPy, pandas, OpenCV, Angular, Docker, Node.js.
 
