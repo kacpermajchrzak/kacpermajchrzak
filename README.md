@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper!
 
-I'm studying at AGH University of Science and Technology in Cracow, pursuing a degree in Computer Science and Intelligent Systems. I'm currently in my 3rd year.
+I have completed my Bachelor’s degree in Computer Science and Intelligent Systems at AGH University of Science and Technology in Cracow. Currently, I’m pursuing a Master’s degree in the same field.
 
 Welcome to my GitHub profile.
 
