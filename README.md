@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 
 ## About me
 
-I'm interested in machine learning, especially convolutional neural networks. I'm also passionate about computer vision and related topics.
+I’m currently exploring modern AI topics like large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. Still fascinated by computer vision, but now more curious about how models reason and interact. I'm also passionate about computer vision and related topics.
 
 ## Education
 
@@ -15,8 +15,9 @@ I'm interested in machine learning, especially convolutional neural networks. I'
 - I completed the course CCNAv7: Introduction to Networks.
 - I completed the Advent of Cyber 2023 on TryHackMe.
 - I attended several Sekurak courses:
-  - computer forensics in linux
-  - introduction to linux security, part 1
+  - Forensic analysis in Linux
+  - ntroduction to Linux Security, part 1
+  - AI Toolbox 2025
 
 ## Skills
 
