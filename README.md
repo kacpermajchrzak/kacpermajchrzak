@@ -16,7 +16,7 @@ I’m currently exploring modern AI topics like large language models (LLMs), re
 - I completed the Advent of Cyber 2023 on TryHackMe.
 - I attended several Sekurak courses:
   - Forensic analysis in Linux
-  - ntroduction to Linux Security, part 1
+  - Introduction to Linux Security, part 1
   - AI Toolbox 2025
 
 ## Skills
